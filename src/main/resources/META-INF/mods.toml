@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="end_plus_mod_forge"
+version="1.0.0"
+displayName="End Plus Mod [FORGE]"
+credits="Credits to Celsisus on his/her original mod for FABRIC"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/end-plus"
+authors="hir0shiyt & celsisus"
+description='''
+Plz credit celsisus for leting me export this mod
+'''
+
+[[dependencies.end_plus_mod_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
